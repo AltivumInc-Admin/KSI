@@ -4,7 +4,18 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![FedRAMP](https://img.shields.io/badge/FedRAMP-20x-orange)
 ![Status](https://img.shields.io/badge/status-active-success)
-[![Deploy](https://github.com/AltivumInc-Admin/KSI/actions/workflows/deploy.yml/badge.svg)](https://github.com/AltivumInc-Admin/KSI/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/AltivumInc-Admin/KSI/actions/workflows/static.yml/badge.svg)](https://github.com/AltivumInc-Admin/KSI/actions/workflows/static.yml)
+
+## 🌐 Live Demo
+
+<div align="center">
+  <a href="https://altivuminc-admin.github.io/KSI/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=github" alt="Live Demo" />
+  </a>
+  
+  <p><strong>Try the FedRAMP KSI Compliance Tracker live in your browser!</strong></p>
+  <p>No installation required - start tracking your compliance progress immediately.</p>
+</div>
 
 ## Disclaimer
 
