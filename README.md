@@ -1,5 +1,11 @@
 # FedRAMP 20x KSI Compliance Tracker
 
+![Version](https://img.shields.io/badge/version-2.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![FedRAMP](https://img.shields.io/badge/FedRAMP-20x-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+[![Deploy](https://github.com/AltivumInc-Admin/KSI/actions/workflows/deploy.yml/badge.svg)](https://github.com/AltivumInc-Admin/KSI/actions/workflows/deploy.yml)
+
 ## Disclaimer
 
 This is not an official FedRAMP dashboard.
